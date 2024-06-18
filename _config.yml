@@ -14,7 +14,7 @@ logo: "/assets/images/prof.jpg"
 float_logo: false # true, false (default)
 
 # blog cover
-cover: "/assets/images/off.jpeg"
+cover: "/assets/images/background_image.jpeg"
 
 name: 'Reuben B'
 author: 'Reuben B'
