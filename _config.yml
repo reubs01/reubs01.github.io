@@ -18,7 +18,7 @@ cover: "/assets/images/background_image.jpeg"
 
 name: 'Reuben B'
 author: 'Reuben B'
-author_image: "/assets/images/prof.jpg"
+author_image: "/assets/images/background_image.jpeg"
 
 paginate:	5
 
