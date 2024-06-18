@@ -4,11 +4,11 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Reuben B"
+title: "Reuben B."
 description: > # this means to ignore newlines until "email:"
    A portfolio to demonstrate some of my work.
 
-email: a-mail@mail.mail
+#email: a-mail@mail.mail
 #blog logo
 logo: "/assets/images/prof.jpg"
 float_logo: false # true, false (default)
@@ -18,7 +18,7 @@ cover: "/assets/images/background_image.jpeg"
 
 name: 'Reuben B'
 author: 'Reuben B'
-author_image: "/assets/images/background_image.jpeg"
+author_image: "/assets/images/prof.jpg"
 
 paginate:	5
 
