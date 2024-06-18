@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Reuben B"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   A portfolio to demonstrate some of my work.
 
 email: a-mail@mail.mail
 #blog logo
@@ -16,8 +16,8 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Reuben B'
+author: 'Reuben B'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
@@ -34,9 +34,9 @@ twitter_handle: '@dirkfabisch'
 
 # social icons and sharing options
 social:
-  - icon:	twitter
+  - icon:	linkedin
     url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
+    desc: Connect with me on linkedin
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
@@ -50,7 +50,7 @@ social:
 
   - icon:	github
     url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
+    desc:	Follow me on github
     share_url:
     share_title:
     share_link:
