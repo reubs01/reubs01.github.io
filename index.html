@@ -2,6 +2,15 @@
 layout: default
 ---
 
+<head>
+  ... (other head elements)
+  <style>
+    .blog-logo {
+      margin-right: -10px; /* Adjust the value as needed */
+    }
+  </style>
+</head>
+
 <div class="teaserimage">
     <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }})"{% endif %}>
         Teaser Image
