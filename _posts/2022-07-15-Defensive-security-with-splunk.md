@@ -10,7 +10,8 @@ Using Splunk to design a custom monitoring environment - created custom reports,
  
 I then conducted a simulated attack and analysed the results to determine the effectiveness of my monitoring solutions.
 
- 
+
+
 ### Technologies Used: 
  
 Splunk: {Reporting, Alerting, Dashboards} 
