@@ -4,6 +4,8 @@ layout: post
 ---
 
 Using Microsoft Azure to build and host my own web application - securing it with a SSL certificate and applying Azure’s security features to protect it. 
+
+
  
 ### Technologies Used: 
  
@@ -13,8 +15,6 @@ Developed and designed a web application using Azure’s Cloud services and Dock
 Created and stored SSL certificates in Azure’s Key Vault, and bound them to secure the web application.
 Protected the web application by utilising Azure’s Security features, such as Azure’s Front Door, WAF, and Security Center.
 
-
- 
 ### Some of the important requirements included:
  
 * Deploying a Docker container which had a framework for a blog webpage and sshing into the container to customise the webpage
