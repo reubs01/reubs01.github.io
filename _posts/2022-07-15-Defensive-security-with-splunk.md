@@ -3,7 +3,11 @@ title:  "Defensive security with Splunk"
 layout: post
 ---
 
-Using Splunk to design a custom monitoring environment - created custom reports, alerts, dashboards, and add-on apps to protect the company. This included:
+Using Splunk to design a custom monitoring environment - created custom reports, alerts, dashboards, and add-on apps to protect the company. 
+
+
+
+This included:
  
 * Developing and designing a custom monitoring solution using Splunk to report and alert on suspicious activity from Windows Events and Apache logs. 
 * Created dashboards with multiple visualisations to provide in-depth analysis of attack signatures.
