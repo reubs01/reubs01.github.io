@@ -4,4 +4,4 @@ permalink: "/about/"
 layout: page
 ---
 
-I'm a student majoring in computer networks and security. Here, I'll present some of my work.
+Just a little corner of the internet to stash personal projects, random ideas, and half-finished brilliance for future me to (maybe) revisit someday.
