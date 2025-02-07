@@ -3,11 +3,13 @@ title:  "A file integrity monitor with powershell"
 layout: post
 ---
 
-A file integrity monitor (FIM) is a powerful security tool that detects and alerts on any changes made to important files on a computer or network. This includes changes to the contents of a file as well as changes to the file's attributes such as permissions, ownership, and timestamps. FIMs work by creating a baseline or "fingerprint" of important files, which is used as a reference point to compare against any changes that occur. If a change is detected, the FIM can alert the system administrator or take other actions to mitigate potential security threats.
+A file integrity monitor (FIM) is a security tool that detects and alerts on any changes made to important files on a computer or network. This includes changes to the contents of a file as well as changes to the file's attributes such as permissions, ownership, and timestamps. FIMs work by creating a baseline of important files, which is used as a reference point to compare against any changes that occur. If a change is detected, the FIM can alert the system administrator or take other actions to mitigate potential security threats.
+
+
 
 ### How the code works
 
-My code is specifically designed to detect changes to files and configurations by utilizing the following process:
+The code is specifically designed to detect changes to files and config by using the following process:
 
 ![title](/assets/fim-chart.jpg)
 
@@ -18,4 +20,4 @@ My code is specifically designed to detect changes to files and configurations b
 * If monitoring with a saved baseline, the files and their corresponding hash are loaded from the baseline and stored in a dictionary.
 * The files are then continuously monitored against the saved baseline by comparing the calculated hashes against the dictionary. This allows for the detection of new files, changes to existing files, and deleted files.
 
-You can find the code repository [here](https://github.com/reubs01/fileIntegrityMonitor).
+You can find the code [here](https://github.com/reubs01/fileIntegrityMonitor).
