@@ -9,6 +9,8 @@ I used Splunk to design a custom monitoring environment to protect a fictional o
 * Created dashboards with multiple visualisations to provide in-depth analysis of attack signatures.
  
 I then conducted a simulated attack and analysed the results to determine the effectiveness of my monitoring solutions.
+
+
  
 ### Technologies Used: 
  
