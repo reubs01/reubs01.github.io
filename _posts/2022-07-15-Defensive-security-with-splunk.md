@@ -1,16 +1,14 @@
 ---
-title:  "Defensive security with Splunk"
+title:  "Custom monitoring with Splunk"
 layout: post
 ---
 
-Using Splunk to design a custom monitoring environment - created custom reports, alerts, dashboards, and add-on apps to protect the company. 
+The following is a summary of work I completed in Splunk which included creating custom reports, alerts, dashboards.
 
-
-
-This included:
+Specifically, the tasks included:
  
-* Developing and designing a custom monitoring solution using Splunk to report and alert on suspicious activity from Windows Events and Apache logs. 
-* Created dashboards with multiple visualisations to provide in-depth analysis of attack signatures.
+* Developing a custom monitoring solution to report and alert on suspicious activity from Windows Events + Apache logs. 
+* Created dashboards with multiple visualisations to provide in depth analysis of attack signatures (this will be discussed below).
  
 I then conducted a simulated attack and analysed the results to determine the effectiveness of my monitoring solutions.
 
@@ -34,7 +32,7 @@ Splunk: {Reporting, Alerting, Dashboards}
     * Dashboards 
     * Add-on applications (Splunk security essentials and Machine learning toolkit) 
  
-### Project requirements
+### Project requirements (process followed)
  
 * Loaded Windows and Apache logs into my Splunk environment. 
 * Analysed the logs to determine baselines and thresholds. 
@@ -46,7 +44,7 @@ Splunk: {Reporting, Alerting, Dashboards}
  
 I analysed the company’s regular historical activity to determine its normal average range. I then created an alert threshold outside of this normal range to prevent any false positives.
  
-### After experiencing the simulated attack, did you determine that your thresholds needed modification? 
+### Modifying thresholds after an attack 
  
 After the attack, my alerts were triggered on the suspicious volume of failed activity as well as an above average number of successful logins. However, my alerts did not trigger the significant change in account deletions. When analysing the attack logs from my dashboard, all of the charts changed in alignment with the results in my searches.
  
