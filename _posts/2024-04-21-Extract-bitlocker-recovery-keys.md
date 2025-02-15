@@ -1,5 +1,5 @@
 ---
-title:  "Extract bitLocker recovery keys for mounted volumes"
+title:  "Dumping bitlocker recovery keys"
 layout: post
 ---
 
