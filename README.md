@@ -4,4 +4,4 @@ permalink: "/about/"
 layout: page
 ---
 
-Just a little corner to stash personal projects, random ideas, and half finished experiments for future reference.
+Just a little corner to stash personal projects and stuff for future reference.
