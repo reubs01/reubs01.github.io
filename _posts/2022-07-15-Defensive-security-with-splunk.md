@@ -3,11 +3,11 @@ title:  "Custom monitoring with Splunk"
 layout: post
 ---
 
-The following is a summary of work I completed in Splunk which included creating custom reports, alerts, dashboards.
+The following is a summary of work I completed in Splunk which included creating custom reports, alerts and dashboards.
 
 Specifically, the tasks included:
  
-* Developing a custom monitoring solution to report and alert on suspicious activity from Windows Events + Apache logs. 
+* Developing a custom monitoring solution to report and alert on suspicious activity from windows events + apache logs. 
 * Created dashboards with multiple visualisations to provide in depth analysis of attack signatures (this will be discussed below).
  
 I then conducted a simulated attack and analysed the results to determine the effectiveness of my monitoring solutions.
