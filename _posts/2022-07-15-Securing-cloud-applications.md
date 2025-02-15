@@ -1,5 +1,5 @@
 ---
-title: "Securing Cloud Applications"
+title: "Securing cloud applications"
 layout: post
 ---
 
