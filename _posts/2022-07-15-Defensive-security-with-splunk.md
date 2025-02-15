@@ -5,6 +5,8 @@ layout: post
 
 The following is a summary of work I completed in Splunk which included creating custom reports, alerts and dashboards.
 
+
+
 Specifically, the tasks included:
  
 * Developing a custom monitoring solution to report and alert on suspicious activity from windows events + apache logs. 
@@ -12,13 +14,11 @@ Specifically, the tasks included:
  
 I then conducted a simulated attack and analysed the results to determine the effectiveness of my monitoring solutions.
 
-
-
 ### Technologies Used: 
  
 Splunk: {Reporting, Alerting, Dashboards} 
  
-### This project covered a wide range of topics, including: 
+### This project covered a wide range of topics including: 
  
 * Information security continuous monitoring (ISCM) 
 * Log types and their use for monitoring 
@@ -26,19 +26,19 @@ Splunk: {Reporting, Alerting, Dashboards}
 * Baselining 
 * SIEMS 
 * Splunk: 
-    * Splunk Processing Language (SPL) 
+    * Splunk processing language (SPL) 
     * Reporting 
     * Alerting 
     * Dashboards 
-    * Add-on applications (Splunk security essentials and Machine learning toolkit) 
+    * Add on applications (splunk security essentials and machine learning toolkit) 
  
 ### Project requirements (process followed)
  
-* Loaded Windows and Apache logs into my Splunk environment. 
-* Analysed the logs to determine baselines and thresholds. 
-* Created reports, alerts, and dashboards for specific criteria. 
-* Loading Windows and Apache logs that contained a simulated attack.
-* Analysed the attack logs with my Splunk environment to determine its effectiveness. 
+* Loaded windows and apache logs into splunk 
+* Analysed the logs to determine baselines and thresholds 
+* Created reports, alerts and dashboards for specific criteria
+* Loading windows and apache logs that contained a simulated attack
+* Analysed the attack logs with my splunk environment to determine its effectiveness 
  
 ### Determining baselines and thresholds for my alerts
  
