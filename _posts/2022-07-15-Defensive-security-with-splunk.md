@@ -1,5 +1,5 @@
 ---
-title:  "Custom monitoring with Splunk"
+title:  "Custom monitoring with splunk"
 layout: post
 ---
 
